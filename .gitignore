@@ -1,0 +1,11 @@
+*.pyc
+*.egg-info
+.coverage
+cover
+build
+dist
+*$py.class
+MANIFEST
+.tox
+app.yaml
+.noseids
